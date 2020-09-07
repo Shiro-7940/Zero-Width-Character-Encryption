@@ -1,6 +1,7 @@
 # Zero-Width-Character-Encryption
 A encryption tool for hiding information using zwsp-steg-py.
-'''
+```
+An example of running the script:
 [evaluate Zero-Width-Character-Encryption.py]
 -----ENCODE INPUT-----
 Enter the secret message: test
@@ -19,4 +20,4 @@ Error: Unknown encoding detected! (FULL Mode)
 Decoded Message: test
 A000000110||00000010|0|000000110|1000000110||A
 -----END-----
-'''
+```
