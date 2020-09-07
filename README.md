@@ -1,12 +1,15 @@
 # Zero-Width-Character-Encryption
 A encryption tool for hiding information using zwsp-steg-py.
+
 This is a beginner's work; sorry if the code is not that regulated.
+
 ## Prerequisites:
 * (pip install zwsp-steg-py) https://github.com/enodari/zwsp-steg-py
   * (Original coding: https://github.com/offdev/zwsp-steg-js)
 * (pip install pyperclip) https://github.com/asweigart/pyperclip
+
+## An example of running the script:
 ```
-An example of running the script:
 [evaluate Zero-Width-Character-Encryption.py]
 -----ENCODE INPUT-----
 Enter the secret message: test
